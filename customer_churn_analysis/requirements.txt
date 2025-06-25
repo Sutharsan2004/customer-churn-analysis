@@ -1,0 +1,5 @@
+pandas
+scikit-learn
+eli5
+matplotlib
+jupyter
